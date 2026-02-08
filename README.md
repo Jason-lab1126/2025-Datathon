@@ -16,6 +16,15 @@
 
 ---
 
+
+## 📺 Presentation Video
+
+[![Seattle Mobility Friction Demo](https://img.youtube.com/vi/5-6n1y8gOek/maxresdefault.jpg)](https://www.youtube.com/watch?v=5-6n1y8gOek)
+
+*Click the image above to watch our project presentation and technical deep-dive.*
+
+---
+
 ## The Engineering Challenge
 Seattle's topography poses a unique "Last Mile" problem for accessibility. Traditional analysis relies on static counts. **Our goal:** To move beyond descriptive statistics and build a **predictive engine** that quantifies "Mobility Friction"—the block-by-block resistance faced by pedestrians with disabilities.
 
