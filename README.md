@@ -55,11 +55,9 @@ We rejected simple linear regression in favor of a **Stacking Ensemble Regressor
 
 ## Repository Structure
 ```bash
-├── data/                   # Raw CSV datasets
-├── output/                 
-│   ├── figures/            # Generated Plots (EDA, Boxplots, Residuals)
-│   └── maps/               # HTML interactive maps
-├── src/                    # Source code for Stacking Model & Preprocessing
-├── notebooks/              # Jupyter Notebooks for exploratory analysis
-├── README.md               # You are here
-└── requirements.txt        # Dependencies
+├── web_portal/             # [Submodule] Live Web Interface (by Willy Hung)
+├── Seattle_Accessibility_Analysis.ipynb # Main Analysis & Model Training
+├── Access_to_Everyday_Life_Dataset.csv  # Raw Dataset (82k+ records)
+├── output/                 # ML Diagnostics & Visualizations
+├── README.md               # Project Documentation
+└── .gitmodules             # Submodule configuration
