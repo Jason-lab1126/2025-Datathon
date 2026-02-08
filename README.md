@@ -63,11 +63,3 @@ We rejected simple linear regression in favor of a **Stacking Ensemble Regressor
 ├── notebooks/              # Jupyter Notebooks for exploratory analysis
 ├── README.md               # You are here
 └── requirements.txt        # Dependencies
-
-## Installation & Usage
-
-To reproduce our analysis or train the model locally:
-
-### 1. Clone the repo
-```bash
-git clone [https://github.com/your-username/Datathon-Project.git](https://github.com/your-username/Datathon-Project.git)
