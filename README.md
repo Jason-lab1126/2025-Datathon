@@ -17,7 +17,7 @@
 ---
 
 
-## 📺 Presentation Video
+## Presentation Video
 
 [![Seattle Mobility Friction Demo](https://img.youtube.com/vi/5-6n1y8gOek/maxresdefault.jpg)](https://www.youtube.com/watch?v=5-6n1y8gOek)
 
